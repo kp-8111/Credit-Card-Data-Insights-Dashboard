@@ -50,6 +50,7 @@ The insights provided through this dashboard empower decision-makers to:
 - Increase profitability by addressing expense inefficiencies and interest opportunities.
 
 ---
+[View the Dashboard](https://project.novypro.com/vEq1vC)
 
 ### Reflection
 This project showcases the ability to analyze financial datasets effectively, providing strategic insights that directly impact business performance. It also highlights technical expertise in Power BI and SQL, coupled with a strong analytical mindset.
